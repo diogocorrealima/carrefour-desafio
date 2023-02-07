@@ -30,4 +30,9 @@ public class SalesController : ApiController
     {
         await _salesAppService.Register(salesRegisterViewModel);
     }
+    [HttpGet("/consolidate")]
+    public async Task<IActionResult> Consolidate()
+    {
+        return Ok(await _salesAppService.TotalProductsSold());
+    }
 }

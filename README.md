@@ -1,9 +1,9 @@
 # Carrefour Desafio
-Desenho de Solução 
+<b>Desenho de Solução </b>
 
 ![image](https://user-images.githubusercontent.com/13989921/217170216-7bbf3ff3-bf39-40c5-b465-1b505db05cc5.png)
 
-Desenho Esteira DevSecOps
+<b>Desenho Esteira DevSecOps</b>
 
 ![image](https://user-images.githubusercontent.com/13989921/217170523-3e763f7d-e4ff-4f78-9283-6b64198cc414.png)
 

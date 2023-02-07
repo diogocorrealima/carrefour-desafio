@@ -7,5 +7,6 @@ namespace SalesAPI.Application
     {
         Task<List<SalesListViewModel>> GetAll();
         Task<ValidationResult> Register(SalesRegisterViewModel salesRegisterViewModel);
+        Task<List<SalesConsolidateReportViewModel>> TotalProductsSold();
     }
 }

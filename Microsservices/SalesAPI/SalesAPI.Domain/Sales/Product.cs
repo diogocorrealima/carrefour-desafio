@@ -11,6 +11,6 @@ namespace SalesAPI.Domain.Entities
             Quantity = quantity;    
         }
         public double Value { get; set; }
-        public double Quantity { get; set; }
+        public int Quantity { get; set; }
     }
 }

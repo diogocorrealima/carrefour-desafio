@@ -17,7 +17,7 @@ namespace SalesAPI.Application
         {
             _mediator = mediator;
             _mapper = mapper;
-            _salesRepository = salesRepository; 
+            _salesRepository = salesRepository;
         }
         public async Task<List<SalesListViewModel>> GetAll()
         {
@@ -28,6 +28,19 @@ namespace SalesAPI.Application
         {
             var registerCommand = new RegisterSalesCommand(salesRegisterViewModel.TotalValue, _mapper.Map<List<Product>>(salesRegisterViewModel.Products));
             return await _mediator.Send(registerCommand);
+        }
+        public async Task<List<SalesConsolidateReportViewModel>> TotalProductsSold()
+        {
+            var products = (await _salesRepository.GetAllAsync()).SelectMany(p => p.Products).ToList();
+            var salesConsolidade = products.GroupBy(p => p.Id).Select(
+                 g => new SalesConsolidateReportViewModel
+                 {
+                     ProductId = g.Key,
+                     TotalValue = g.Sum(s => s.Value),
+                     TotalProductSold = g.Sum(s => s.Quantity),
+                 });
+
+            return salesConsolidade.ToList();
         }
     }
 }
