@@ -1,4 +1,4 @@
-# carrefour-desafio
+# Carrefour Desafio
 Desenho de soluções 
 
 ![image](https://user-images.githubusercontent.com/13989921/217156801-3998900d-ea92-46c2-b9fa-60d5f050e34f.png)
@@ -21,3 +21,14 @@ BFF - http://localhost:8090/swagger/index.html
 VendasAPI - http://localhost:8080/swagger/index.html
 ProdutosAPI - http://localhost:8081/swagger/index.html
 CartõesAPI - http://localhost:8082/swagger/index.html
+
+ASP.NET 6.0
+ASP.NET MVC Core
+ASP.NET WebApi Core with JWT Bearer Authentication
+ASP.NET Identity Core
+Entity Framework Core 6.0
+.NET Core Native DI
+AutoMapper
+FluentValidator
+MediatR
+Swagger UI with JWT support
