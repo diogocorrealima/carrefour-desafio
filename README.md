@@ -1,5 +1,5 @@
 # Carrefour Desafio
-Desenho de soluções 
+Desenho de Solução 
 
 ![image](https://user-images.githubusercontent.com/13989921/217156801-3998900d-ea92-46c2-b9fa-60d5f050e34f.png)
 
