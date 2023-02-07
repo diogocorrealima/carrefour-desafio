@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gL0Mql3rsu1LgMX3uNC73OFsRxqVipPwgfDCHiIXjBk=",
+  "Source": "SalesAPI.Services.API",
+  "BasePath": "_content/SalesAPI.Services.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

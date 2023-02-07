@@ -1,0 +1,15 @@
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\bin\Debug\net6.0\SalesAPI.Infra.Data.deps.json
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\bin\Debug\net6.0\SalesAPI.Infra.Data.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\bin\Debug\net6.0\SalesAPI.Infra.Data.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.AssemblyInfo.cs
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\refint\SalesAPI.Infra.Data.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\ref\SalesAPI.Infra.Data.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\bin\Debug\net6.0\SalesAPI.Domain.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\bin\Debug\net6.0\SalesAPI.Domain.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Infra.Data\obj\Debug\net6.0\SalesAPI.Infra.Data.csproj.CopyComplete

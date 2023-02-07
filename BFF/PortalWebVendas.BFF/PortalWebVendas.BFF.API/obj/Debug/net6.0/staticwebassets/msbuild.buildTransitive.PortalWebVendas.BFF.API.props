@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PortalWebVendas.BFF.API.props" />
+</Project>

@@ -1,0 +1,69 @@
+version: "3.7"
+
+services:
+  # portalweb:
+  #   container_name: portalweb
+  #   image: portalweb:latest
+  #   restart: always
+  #   build:
+  #     context: ../Web/cashflow
+  #     dockerfile: PortalVendas.Dockerfile
+  #   ports:
+  #     - "9000:80"
+  portalweb-bff:
+    image: portalweb-bff
+    build:
+      context: ../BFF/PortalWebVendas.BFF
+      dockerfile: PortalWebVendas.BFF.Dockerfile
+    ports:
+      - 8090:80
+
+  sales-api:
+    image: sales-api
+    build:
+      context: ../Microsservices/SalesAPI
+      dockerfile: SalesAPI.Dockerfile
+    env_file:
+      - SalesAPI.env
+    ports:
+      - 8080:80
+    links:
+      - mongodb
+    depends_on:
+      - mongodb
+
+  products-api:
+    image: products-api
+    build:
+      context: ../Microsservices/ProductsAPI/
+      dockerfile: ProductsAPI.Dockerfile
+    env_file:
+      - ProductsAPI.env
+    ports:
+      - 8081:80
+    links:
+      - mongodb
+    depends_on:
+      - mongodb
+  
+  cards-api:
+    image: cards-api
+    build:
+      context: ../Microsservices/CardsAPI
+      dockerfile: CardsAPI.Dockerfile
+    env_file:
+      - CardsAPI.env
+    ports:
+      - 8082:80
+    links:
+      - mongodb
+    depends_on:
+      - mongodb  
+  
+  mongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
+
+
+

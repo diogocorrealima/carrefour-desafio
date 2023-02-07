@@ -1,0 +1,65 @@
+# Docker
+
+# Build and push an image to Azure Container Registry
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+  branches:
+    include:
+      - develop
+  paths:
+    include:
+      - Microsservices/SalesAPI
+
+resources:
+  - repo: self
+
+variables:
+  tag: "$(Build.BuildId)"
+  # Agent VM image name
+  vmImageName: "ubuntu-latest"
+  dockerfile: "SalesAPI.Dockerfile"
+
+# TODO:
+# - Improve build performance by bulding project only one time. Use this article as sample:
+# https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/test/publish-test-results?view=azure-devops&tabs=yaml
+
+stages:
+  - stage: BuildTestAndPublish
+    jobs:
+      - job: BuildTestAndPublish
+        displayName: First Job
+        pool:
+          vmImage: $(vmImageName)
+        steps:
+          - task: Docker@2
+            displayName: 1 - Build Image
+            inputs:
+              containerRegistry: "$(REGISTRY_NAME)"
+              repository: "$(CONTEXT_NAME)/$(IMAGE_NAME)"
+              command: "build"
+              Dockerfile: "../**/$(dockerfile)"
+          - task: CmdLine@2
+            displayName: 2 - Run Docker And Extract Test File
+            inputs:
+              script: |
+                echo $(REGISTRY_URL)/$(CONTEXT_NAME)/$(IMAGE_NAME):$(Build.BuildId)
+                docker run --name $(IMAGE_NAME) --rm -d $(REGISTRY_URL)/$(CONTEXT_NAME)/$(IMAGE_NAME):$(Build.BuildId)
+                docker ps -a
+                docker cp $(IMAGE_NAME):app/testresultsInt.trx $(System.DefaultWorkingDirectory)
+                docker cp $(IMAGE_NAME):app/testresultsUnit.trx $(System.DefaultWorkingDirectory)
+                docker stop $(IMAGE_NAME)
+          - task: PublishTestResults@2
+            displayName: 2 - Tests Reading
+            inputs:
+              testRunner: VSTest
+              testResultsFiles: "**/*.trx"
+              failTaskOnFailedTests: true
+              publishRunAttachments: true
+          - task: Docker@2
+            displayName: 4 - Push Image
+            inputs:
+              command: push
+              containerRegistry: "$(REGISTRY_NAME)"
+              repository: "$(CONTEXT_NAME)/$(IMAGE_NAME)"
+              tags: $(Build.BuildId)

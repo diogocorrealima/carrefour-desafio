@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Leqol6T0yCLE4e0eBZnbFmYZOxDG/MusGLMXT90Cb4t1/ZwowGGhNJcP9ZnYT6/MSBTNcJcsEzzDmuNQUYkvQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Application\\SalesAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

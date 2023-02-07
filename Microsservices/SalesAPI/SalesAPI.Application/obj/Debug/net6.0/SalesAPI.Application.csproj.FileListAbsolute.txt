@@ -1,0 +1,15 @@
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\bin\Debug\net6.0\SalesAPI.Application.deps.json
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\bin\Debug\net6.0\SalesAPI.Application.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\bin\Debug\net6.0\SalesAPI.Application.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.csproj.AssemblyReference.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.AssemblyInfoInputs.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.AssemblyInfo.cs
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.csproj.CoreCompileInputs.cache
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\refint\SalesAPI.Application.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\ref\SalesAPI.Application.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\bin\Debug\net6.0\SalesAPI.Domain.dll
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\bin\Debug\net6.0\SalesAPI.Domain.pdb
+C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Application\obj\Debug\net6.0\SalesAPI.Application.csproj.CopyComplete

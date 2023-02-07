@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o9oLTZ1zPxO9lMKMLAY13M37+sPXP4dRN4Tu+dTfGDQ=",
+  "Source": "PortalWebVendas.BFF.API",
+  "BasePath": "_content/PortalWebVendas.BFF.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

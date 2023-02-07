@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalesAPI.Application\SalesAPI.Application.csproj" />
+    <ProjectReference Include="..\SalesAPI.Domain\SalesAPI.Domain.csproj" />
+    <ProjectReference Include="..\SalesAPI.Infra.CrossCutting.Bus\SalesAPI.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\SalesAPI.Infra.Data\SalesAPI.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
