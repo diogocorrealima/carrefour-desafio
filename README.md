@@ -39,5 +39,5 @@ AutoMapper</br>
 FluentValidator</br>
 MediatR</br>
 Swagger UI with JWT support</br>
-Flutter
-ReactJS
+Flutter</br>
+ReactJS</br>
