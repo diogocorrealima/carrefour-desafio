@@ -14,9 +14,9 @@ Projeto estruturado com conceitos de microsserviços, utilizando .Net Core 6 par
 Para rodar o projeto:
 
 Premissas:
-1 - Docker
+1 - Docker</br>
 2 - .Net Core 6
-3 - NodeJS
+3 - NodeJS 16
 
 1 - Acessar pasta "./Docker"
 2 - Rodar o comando "docker-compose up"
