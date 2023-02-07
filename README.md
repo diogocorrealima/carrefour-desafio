@@ -1,7 +1,12 @@
 # Carrefour Desafio
 Desenho de Solução 
 
-![image](https://user-images.githubusercontent.com/13989921/217156801-3998900d-ea92-46c2-b9fa-60d5f050e34f.png)
+![image](https://user-images.githubusercontent.com/13989921/217170216-7bbf3ff3-bf39-40c5-b465-1b505db05cc5.png)
+
+Desenho Esteira DevSecOps
+
+![image](https://user-images.githubusercontent.com/13989921/217170398-b6983862-0135-40b3-81f6-e14bf35c9e93.png)
+
 
 
 Projeto estruturado com conceitos de microsserviços, utilizando .Net Core 6 para Backend, ReactJS(Vite) para Portal Web Frontend e Flutter para Mobile.
