@@ -5,7 +5,7 @@ Desenho de Solução
 
 Desenho Esteira DevSecOps
 
-![image](https://user-images.githubusercontent.com/13989921/217170398-b6983862-0135-40b3-81f6-e14bf35c9e93.png)
+![image](https://user-images.githubusercontent.com/13989921/217170523-3e763f7d-e4ff-4f78-9283-6b64198cc414.png)
 
 
 
