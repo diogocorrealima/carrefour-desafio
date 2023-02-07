@@ -30,14 +30,15 @@ ProdutosAPI - http://localhost:8081/swagger/index.html</br>
 CartõesAPI - http://localhost:8082/swagger/index.html</br>
 
 ASP.NET 6.0</br>
-ASP.NET MVC Core</br>
 ASP.NET WebApi Core with JWT Bearer Authentication</br>
-ASP.NET Identity Core</br>
 Entity Framework Core 6.0</br>
 .NET Core Native DI</br>
 AutoMapper</br>
 FluentValidator</br>
 MediatR</br>
 Swagger UI with JWT support</br>
+SqlServer</br>
+Redis</br>
+MongoDb</br>
 Flutter</br>
 ReactJS</br>
