@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
+      "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
       "projectName": "SalesAPI.Infra.Data",
-      "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
+      "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\obj\\",
+      "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -981,8 +981,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
-              "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
+            "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
+              "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
             }
           }
         }

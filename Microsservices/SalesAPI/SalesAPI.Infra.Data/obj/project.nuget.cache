@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhaO0zd9u8qVh/my5sQjSyiiqMCxng6az+uZyrStDXWGg9MeF71k6oV2g5PM7TMTwqP4WxORy6JG9gswxSXyrg==",
+  "dgSpecHash": "AlYOD3mwdnWh9QhkiZRYfjR8mvs0ogBRMKGAnGySlG/aWVBbBJS4rpvOnK6QTiHhd9X7RP9vN8ZYZkfIe6gkTA==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

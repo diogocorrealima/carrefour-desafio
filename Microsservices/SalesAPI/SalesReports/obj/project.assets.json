@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
+      "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
       "projectName": "SalesReports",
-      "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
+      "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesReports\\obj\\",
+      "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesReports\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

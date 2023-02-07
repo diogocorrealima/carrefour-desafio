@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
+      "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
       "projectName": "ProductsAPI.Services.API",
-      "projectPath": "C:\\git\\cash-flow\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
+      "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\cash-flow\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\obj\\",
+      "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

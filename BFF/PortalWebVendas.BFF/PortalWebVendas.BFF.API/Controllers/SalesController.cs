@@ -25,7 +25,7 @@ namespace PortalWebVendas.BFF.API.Controllers
             return await _salesService.GetAll();
         }
         [HttpPost]
-        public async Task Post(SalesDto salesDto)
+        public async Task Post(SalesRegisterDto salesDto)
         {
             var products = await _productsService.GetAll(salesDto.Products.Select(p => p.Id).ToList());
             salesDto.Products = products;

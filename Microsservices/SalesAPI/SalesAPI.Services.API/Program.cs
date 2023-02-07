@@ -1,7 +1,6 @@
 using MediatR;
 using SalesAPI.Services.API.Configurations;
-using AutoMapper;
-using SalesAPI.Services.API.Configurations;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

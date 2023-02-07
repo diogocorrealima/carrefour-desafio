@@ -20,7 +20,7 @@ namespace PortalWebVendas.BFF.API.Services
             return await _salesService.GetAll();
         }
 
-        public async Task Register(SalesDto sales)
+        public async Task Register(SalesRegisterDto sales)
         {
             await _salesService.Register(sales);
         }

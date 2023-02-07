@@ -21,9 +21,9 @@ namespace ProductsAPI.Services.API.Controllers
     }
 
         [HttpGet]
-        public async Task<IActionResult> Get([FromQuery]List<string> ids)
+        public async Task<IActionResult> Get([FromQuery] List<string> ids)
         {
-            return Ok(await Task.FromResult(products.Where(p => ids.Contains(p.Id)).ToList()));
+            return Ok(await Task.FromResult(products.Where(p => !ids.Any() || ids.Contains(p.Id)).ToList()));
         }
     }
 }

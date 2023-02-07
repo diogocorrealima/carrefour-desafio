@@ -9,6 +9,6 @@ namespace PortalWebVendas.BFF.API.Interfaces
             Task<List<SalesDto>> GetAll();
         
             [Post("/Sales/")]
-            Task Register(SalesDto sales);
+            Task Register(SalesRegisterDto sales);
     }
 }

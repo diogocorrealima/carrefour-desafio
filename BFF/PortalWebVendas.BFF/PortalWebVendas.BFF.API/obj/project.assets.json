@@ -488,11 +488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\cash-flow\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\PortalWebVendas.BFF.API.csproj",
+      "projectUniqueName": "C:\\git\\carrefour-desafio\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\PortalWebVendas.BFF.API.csproj",
       "projectName": "PortalWebVendas.BFF.API",
-      "projectPath": "C:\\git\\cash-flow\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\PortalWebVendas.BFF.API.csproj",
+      "projectPath": "C:\\git\\carrefour-desafio\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\PortalWebVendas.BFF.API.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\cash-flow\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\obj\\",
+      "outputPath": "C:\\git\\carrefour-desafio\\BFF\\PortalWebVendas.BFF\\PortalWebVendas.BFF.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

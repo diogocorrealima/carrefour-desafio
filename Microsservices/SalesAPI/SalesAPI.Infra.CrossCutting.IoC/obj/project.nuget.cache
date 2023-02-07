@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nIm4FAKo5Q5WmLA1+rwjDFLzyB7MFib8Ps8Aw/Cbe/c3bHa8atoEY4wt11F3JgPJ/LJ1Ed0J1YsLXl9qwF456w==",
+  "dgSpecHash": "9IBWV/k5JeKX9DHuauC9W3nudu/s0ETwoyPicCeWllh+k8QzYv0tnnEwpJk51c1A0+mZYEyQ6r54zMsw5B1f1Q==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

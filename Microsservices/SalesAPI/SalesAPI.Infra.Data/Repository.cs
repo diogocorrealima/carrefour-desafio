@@ -12,18 +12,18 @@ using System.Threading.Tasks;
 
 namespace SalesAPI.Infra.Data
 {
-    public abstract class Repository<T> : IRepository<T>
+    public abstract class Repository<T> : IRepository<T>, IUnitOfWork
          where T : class
     {
-        protected readonly MongoContext<T> _context = null;
+        protected readonly MongoContext<T> _context;
         private readonly IConfiguration _configuration;
-        public IUnitOfWork UnitOfWork => throw new NotImplementedException();
 
         public Repository(IConfiguration configuration)
         {
             _configuration = configuration;
             _context = new MongoContext<T>(configuration);
         }
+    
 
         #region Sync
 
@@ -97,5 +97,9 @@ namespace SalesAPI.Infra.Data
             return internalId;
         }
 
+        public async Task<bool> Commit()
+        {
+            return await Task.FromResult(true);
+        }
     }
 }

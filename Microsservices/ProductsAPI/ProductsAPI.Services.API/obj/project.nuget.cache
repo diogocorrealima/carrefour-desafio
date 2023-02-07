@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjSS9w/XgDQt/0C7gRqatCtlYCFcYtwp7/AEad3dcSlWtDbUY7NeAysvvRLOH9uQHat8McrqTVCnQyMjuXr/xQ==",
+  "dgSpecHash": "Bzmex2mo6OBPUv8x0TTqDnCGF1ghkfM+Wp/jz12InOjmcvbyzj2l8s9vtikPEK9eSa8szcXyA9d2kspzI4+LkA==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\ProductsAPI\\ProductsAPI.Services.API\\ProductsAPI.Services.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

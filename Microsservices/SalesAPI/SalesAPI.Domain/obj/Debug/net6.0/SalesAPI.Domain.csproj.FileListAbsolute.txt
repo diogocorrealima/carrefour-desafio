@@ -10,3 +10,15 @@ C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesA
 C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\refint\SalesAPI.Domain.dll
 C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.pdb
 C:\git\cash-flow\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\ref\SalesAPI.Domain.dll
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\bin\Debug\net6.0\SalesAPI.Domain.deps.json
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\bin\Debug\net6.0\SalesAPI.Domain.dll
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\bin\Debug\net6.0\SalesAPI.Domain.pdb
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.csproj.AssemblyReference.cache
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.AssemblyInfoInputs.cache
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.AssemblyInfo.cs
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.dll
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\refint\SalesAPI.Domain.dll
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\SalesAPI.Domain.pdb
+C:\git\carrefour-desafio\Microsservices\SalesAPI\SalesAPI.Domain\obj\Debug\net6.0\ref\SalesAPI.Domain.dll

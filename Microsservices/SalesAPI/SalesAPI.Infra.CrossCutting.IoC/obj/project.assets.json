@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
+      "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
       "projectName": "SalesAPI.Infra.CrossCutting.IoC",
-      "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
+      "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\SalesAPI.Infra.CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\obj\\",
+      "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1193,17 +1193,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Application\\SalesAPI.Application.csproj": {
-              "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Application\\SalesAPI.Application.csproj"
+            "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Application\\SalesAPI.Application.csproj": {
+              "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Application\\SalesAPI.Application.csproj"
             },
-            "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
-              "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
+            "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
+              "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
             },
-            "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {
-              "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj"
+            "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {
+              "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj"
             },
-            "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj": {
-              "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj"
+            "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj": {
+              "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.Data\\SalesAPI.Infra.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aynlCx63cNHr6Z2MHNz08OVWIsyn9KpseEaB6DMAV9Bfy+SskuIYGKu3Udt+LA+XA2L9BO1DPhifQodX181gPw==",
+  "dgSpecHash": "yrsOLxqCRofPFW530cJUFTdHDKxkGmzadAX63HZ2waOnh3NR6ZDn3u3L0j+ShNjqCaVk3IWpRr0Covlzm7Qggw==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesReports\\SalesReports.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -31,7 +31,7 @@ namespace SalesAPI.Domain.CommandHandlers
 
             _salesRepository.Add(sales);
 
-            return await Commit(_salesRepository.UnitOfWork);
+            return await Commit();
         }
     }
 }

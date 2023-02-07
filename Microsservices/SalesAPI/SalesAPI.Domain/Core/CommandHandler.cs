@@ -16,16 +16,16 @@ namespace SalesAPI.Domain.Core
             ValidationResult.Errors.Add(new ValidationFailure(string.Empty, mensagem));
         }
 
-        protected async Task<ValidationResult> Commit(IUnitOfWork uow, string message)
+        protected async Task<ValidationResult> Commit(string message)
         {
              AddError(message);
 
             return ValidationResult;
         }
 
-        protected async Task<ValidationResult> Commit(IUnitOfWork uow)
+        protected async Task<ValidationResult> Commit()
         {
-            return await Commit(uow, "There was an error saving data").ConfigureAwait(false);
+            return await Commit("There was an error saving data").ConfigureAwait(false);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0dNtRTwKhTeDtO72+5aaJijmz3aTbY2mxrJ1a3CvsP9H4zW/DrDod3I4K/22j+MIJ+qsuZCXNDEnRLXncxtT0w==",
+  "dgSpecHash": "TRI2sTX0Ethnksc6v8qVjAiR/z4ggiDKzQl7PanzxpQgT90KGV8OGku7m+15J2lVu1CgFkP2dy9xSNwDOIvbaQ==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",

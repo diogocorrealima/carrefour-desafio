@@ -5,7 +5,6 @@ using System.Linq.Expressions;
 namespace SalesAPI.Domain.Interfaces;
 public interface IRepository<T> where T : class
 {
-    IUnitOfWork UnitOfWork { get; }
     void Add(T obj);
     Task AddASync(T obj);
     void Delete(Expression<Func<T, bool>> predicate);

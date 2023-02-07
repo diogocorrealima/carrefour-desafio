@@ -6,7 +6,7 @@ namespace PortalWebVendas.BFF.API.Interfaces
     public interface IProductService
     {
             [Get("/Product/")]
-            Task<List<ProductDto>> GetAll(List<string> ids);
+            Task<List<ProductDto>> GetAll([Query(CollectionFormat.Multi)] List<string> ids);
         
     }
 }

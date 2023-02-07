@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {}
+    "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {}
   },
   "projects": {
-    "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
+    "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj",
+        "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj",
         "projectName": "SalesAPI.Domain",
-        "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj",
+        "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\obj\\",
+        "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {
+    "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
+        "projectUniqueName": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
         "projectName": "SalesAPI.Infra.CrossCutting.Bus",
-        "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
+        "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\SalesAPI.Infra.CrossCutting.Bus.csproj",
         "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\obj\\",
+        "outputPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Infra.CrossCutting.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
-                "projectPath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
+              "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj": {
+                "projectPath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Domain\\SalesAPI.Domain.csproj"
               }
             }
           }

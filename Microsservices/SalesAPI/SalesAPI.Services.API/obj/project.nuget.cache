@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gl2YsDS7JR4Oe/N/6USMkg1Gc5hRyBCKoVZrOQf2BztyL1I7/8IVvqJfGrMuumzYRyhU4nr482zwREGbp1scYw==",
+  "dgSpecHash": "VHcxWL4xhFvuwsKf+CWoOD0G6+oj9Ai+dSceyAlhP9BasaUggtkBTn0Z0/7SbmdGJjz4FyVYlvIJte4htH92xw==",
   "success": true,
-  "projectFilePath": "C:\\git\\cash-flow\\Microsservices\\SalesAPI\\SalesAPI.Services.API\\SalesAPI.Services.API.csproj",
+  "projectFilePath": "C:\\git\\carrefour-desafio\\Microsservices\\SalesAPI\\SalesAPI.Services.API\\SalesAPI.Services.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
