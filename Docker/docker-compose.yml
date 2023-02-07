@@ -17,6 +17,17 @@ services:
       dockerfile: PortalWebVendas.BFF.Dockerfile
     ports:
       - 8090:80
+    env_file:
+      - PortalWebVendas.BFF.env
+    links:
+      - sales-api
+      - products-api
+      - cards-api
+    depends_on:
+      - sales-api
+      - products-api
+      - cards-api
+      
 
   sales-api:
     image: sales-api

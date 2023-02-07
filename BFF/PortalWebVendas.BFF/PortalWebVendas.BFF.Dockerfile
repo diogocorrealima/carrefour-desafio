@@ -9,7 +9,7 @@ ENV ASPNETCORE_ENVIRONMENT CI
 RUN dotnet publish ./PortalWebVendas.BFF.API/PortalWebVendas.BFF.API.csproj -o /app/publish 
 
 ### Estágio 2 - Subir a aplicação através dos binários ###
-FROM mcr.microsoft.com/dotnet/runtime:6.0
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 ENV ASPNETCORE_URLS http://*:80
 EXPOSE 80
